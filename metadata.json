@@ -1,0 +1,7 @@
+{
+  "name": "GourmetMaps AI",
+  "description": "An intelligent food ordering system that leverages Gemini's Google Maps grounding to discover the best local dining experiences with real-time location awareness.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
